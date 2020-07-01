@@ -1,5 +1,5 @@
 {
-  "name": "react-native-view-pdf",
+  "name": "@applicaster/react-native-view-pdf-for-qb",
   "version": "0.11.0",
   "description": "React native Pdf viewer implementation",
   "main": "src/index.js",
@@ -14,7 +14,7 @@
   "keywords": [
     "react-native react-component pdf viewer view android ios pdf"
   ],
-  "author": "Maksym Rusynyk <m.rusynyk@gmail.com>, Sander Frenken <sander.frenken@hotmail.com>",
+  "author": "Yevhen Pashutin",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.6",
