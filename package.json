@@ -1,6 +1,6 @@
 {
   "name": "@applicaster/react-native-view-pdf-for-qb",
-  "version": "0.11.0",
+  "version": "0.11.2",
   "description": "React native Pdf viewer implementation",
   "main": "src/index.js",
   "scripts": {
